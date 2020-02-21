@@ -9,3 +9,7 @@
     * 노드 같은 자바스크립트 엔진은 분명 자바스크립트를 컴파일하긴 하지만, 프로그래머가 개입할 필요 없이 자동으로 이루어집니다.
   * ES6 호환 테이블 : http://kangax.github.io/compat-table/es6/
   * 콘솔 기초 강의 : https://teamtreehouse.com/library/introduction-to-the-terminal
+
+  ### gulp, babel 설정 관련 이슈
+  * 책에 작성된 소스는 예전 소스이기 때문에 현재 적용하려면 에러가 발생한다.
+  * 커밋된 소스 기준으로 따라하면 동작한다. 참고자료 : https://mishka.kr/2019/06/19/Learning-JavaScript-chapter2/
